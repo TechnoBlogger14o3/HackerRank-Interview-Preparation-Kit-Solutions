@@ -163,4 +163,3 @@ public class ValidString {
         System.out.println("NO");
     }
 }
->>>>>>> e0f0f0d98b725956b34bd5ec7867fd11684c8bf5
