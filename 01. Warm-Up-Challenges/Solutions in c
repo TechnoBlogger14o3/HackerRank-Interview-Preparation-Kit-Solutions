@@ -1,0 +1,25 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() 
+{
+
+    int a;
+    scanf("%d", &a);
+    
+  	
+    int len = a*2 - 1;
+    for(int j=0;j<len;j++){
+        for(int i=0;i<len;i++){
+            int min = j < i ? j : i;
+            min = min < len-j ? min : len-j-1;
+            min = min < len-i-1 ? min : len-i-1;
+            printf("%d ", a-min);
+        }
+        printf("\n");
+    }
+    return 0;
+}
+
