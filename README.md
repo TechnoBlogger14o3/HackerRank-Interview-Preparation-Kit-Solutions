@@ -4,7 +4,8 @@
 
 ![Here is my score](interview.png)
 
-This Repository contains a complete set of java and C++ solutions for the **[HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-prep-kit)**.  
+A well-structured collection of C++ and Java implementations for all challenges in the HackerRank Interview Preparation Kit
+. Each problem includes optimized solutions with clear logic — designed to help you prepare efficiently for coding interviews.  
 
 ## 📚 Table of Contents  
 
@@ -22,3 +23,7 @@ This Repository contains a complete set of java and C++ solutions for the **[Hac
 - [Recursion and Backtracking](https://github.com/meghna2807/HackerRank-Interview-Preparation-Kit-Solutions/tree/main/Recursion%20and%20Backtracking)
 - [Miscellaneous](https://github.com/meghna2807/HackerRank-Interview-Preparation-Kit-Solutions/tree/main/Miscellaneous)
 
+Repository Overview
+. Complete solutions for every HackerRank Interview Preparation Kit challenge.
+. Optimized and clean Java and C++ codes.
+. Well Organized folder structure by topic.
