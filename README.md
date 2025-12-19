@@ -7,7 +7,7 @@ Each problem includes optimized solutions with clear logic — designed to help 
 
 ---
 
-## 📚 Table of Contents  
+## Table of Contents  
 
 - [Warm-Up Challenges](https://github.com/TechnoBlogger14o3/HackerRank-Interview-Preparation-Kit-Solutions/tree/'interview-preparation-kit'/01.%20Warm-Up-Challenges)
 - [Arrays](https://github.com/TechnoBlogger14o3/HackerRank-Interview-Preparation-Kit-Solutions/tree/'interview-preparation-kit'/02.%20Arrays)
@@ -26,12 +26,12 @@ Each problem includes optimized solutions with clear logic — designed to help 
 
 ---
 
-## 🔥 **Repository Overview**
+##  **Repository Overview**
 
-- ✅ Complete solutions for every HackerRank Interview Preparation Kit challenge  
-- 🚀 Optimized and clean Java and C++ code  
-- 📂 Well-organized folder structure by topic  
-- 💡 Easy to navigate through clickable links
+- Complete solutions for every HackerRank Interview Preparation Kit challenge  
+- Optimized and clean Java and C++ code  
+- Well-organized folder structure by topic  
+- Easy to navigate through clickable links
 
-If you found this repository helpful, don’t forget to **star ⭐ it** — it helps others find it too!  
+If you found this repository helpful, don’t forget to **star it** — it helps others find it too!  
 
